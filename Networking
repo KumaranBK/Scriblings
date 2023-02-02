@@ -1,0 +1,13 @@
+QUIC = Quick UDP Internet Connection.
+it was devoloped by google 
+its used to encrypt the transportation layer and avoid the latency of traffic compare to TCP (increase the speed)
+
+DSCP Marking: Diffrentiated service code point
+It determines which network traffic required higher bandwidth.
+
+SNMP: Simple Network Management protocol
+SNMP used to monitor which networking devices using how much of network (Bandwidth)
+
+
+
+
